@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Real Time Chat Application
+- 🔭 I’m currently working on ...React router
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with .socket.io
